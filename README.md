@@ -36,6 +36,6 @@ python plot_demo.py
 
 ## ✍️ Author
 
-- Aleena ROy
+- Aleena Roy
 
 
