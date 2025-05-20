@@ -1,4 +1,4 @@
-```markdown
+
 # 📊 Line and Strip Plot Visualization using Matplotlib & Seaborn
 
 This repository demonstrates basic data visualization using Python libraries — `matplotlib`, `seaborn`, and `pandas`. It includes a simple example of how to create a line plot and a strip plot using a small dataset.
